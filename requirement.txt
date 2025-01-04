@@ -1,8 +1,0 @@
-numpy
-torch
-torchvision
-opencv-python
-paddleocr
-vietocr
-Pillow
-matplotlib
