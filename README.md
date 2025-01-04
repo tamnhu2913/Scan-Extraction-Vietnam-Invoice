@@ -1,4 +1,4 @@
-# Scan the invoice and get the information
+# Scan the Vietnamese invoice to extract the information.
 This project utilizes the DeepLabv3 model to scan invoices and extract key information such as store name, invoice date, total amount, product list, etc. The information extraction process combines VietOCR (for reading Vietnamese text on invoices) and PaddleOCR (for detecting text regions on invoices).
 
 ### Notes
