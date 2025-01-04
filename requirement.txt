@@ -1,0 +1,12 @@
+numpy
+torch
+torchvision
+opencv-python
+paddleocr
+paddlepaddle
+pandas
+vietocr
+Pillow
+matplotlib
+re
+datetime
