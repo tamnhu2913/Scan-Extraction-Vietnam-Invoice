@@ -10,3 +10,4 @@ Pillow
 matplotlib
 re
 datetime
+flask
